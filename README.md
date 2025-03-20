@@ -20,12 +20,17 @@ Features
                           File Structure
 
 |-- index.html   # Main webpage
+
 |-- style1.css   # CSS styling
+
 |-- images/      # Profile picture and social media icons
                            
 Note:
 Make sure style1.css and the images folder are linked properly.
-Contact
+
+Live Demo : https://shoaibproto.tiiny.site
+
 Email: m.shoaib7204@gmail.com
+
 GitHub: https://github.com/Shoaib0158/Portfolio-
 
