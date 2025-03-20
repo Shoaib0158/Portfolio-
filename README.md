@@ -13,9 +13,9 @@ Features
                            Technologies Used:
 
    HTML: Basic structure of the website.
+   
    CSS: Styling and layout (responsive design, animations, hover effects).
-   JavaScript: For any interactive elements.
-   Bootstrap: For cleaner styling and responsiveness.
+
                           
                           File Structure
 
